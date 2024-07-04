@@ -1,1 +1,1 @@
-# java-mid1-review
+# 자바 중급1 강의 복습
