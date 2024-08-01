@@ -6,7 +6,8 @@ import java.util.Scanner;
 public class MainV4 {
 
     public static void main(String[] args) {
-        NetworkService4 networkService = new NetworkService4();
+        //NetworkService4 networkService = new NetworkService4();
+        NetworkService5 networkService = new NetworkService5();
 
         Scanner scanner = new Scanner(System.in);
 
